@@ -31,11 +31,10 @@ Contact
 You can find me on other online platforms:
 
 LinkedIn: /micaela-natasha-bustos
+
 Email: bustos.micaela@hotmail.com
 
 Thank you for visiting my profile! I hope you find something interesting here. Don't hesitate to reach out if you have any questions or suggestions.
-
-Feel free to copy and paste this text into your README.md file on your GitHub repository to complete your presentation. I hope this helps!
 
 
 
